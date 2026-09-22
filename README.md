@@ -1,7 +1,7 @@
 # Sobre mim
-Olá, eu me chamo Virgínia sempre fui apaixonada por tecnologia, tenho mais de 10 anos de atuação na área e possuo experiência em desenvolvimento de software.\
-Atualmente estou em transição para a área de **Qualidade de Software (QA)**. Minhas experiências profissionais me proporcionaram uma visão estratégica sobre a importância da qualidade, a atenção aos detalhes, além disso, colaborei ativamente com as equipes de QA o que me permitiu ter a compreensão das tarefas, dos processos e da dinâmica da área.\
-Estou em constante capacitação aprofundando meus conhecimentos em testes manuais, testes funcionais e não funcionais, cenários e casos de testes, BDD, ciclo de vida de testes, automação de testes com Cypress e Playwright.
+Olá, eu me chamo Virgínia sou apaixonada por tecnologia, tenho mais de 10 anos de atuação na área e possuo experiência em desenvolvimento de software.\
+Atualmente estou em transição para a área de **Qualidade de Software (QA)**. Minhas experiências profissionais me proporcionaram uma visão estratégica sobre a importância da qualidade, a atenção aos detalhes, além disso, colaborei ativamente com os QAs dos times que atuei que me permitiu ter a compreensão das atividades, dos processos e da dinâmica do trabalho.\
+Estou em constante capacitação aprofundando meus conhecimentos em testes funcionais e não funcionais, cenários e casos de testes, BDD, ciclo de vida de testes, automação de testes com Cypress.
 
 ## :computer: Ferramentas e Tecnologias
 
